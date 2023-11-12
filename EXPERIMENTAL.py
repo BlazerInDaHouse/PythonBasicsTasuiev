@@ -13,3 +13,5 @@ sorted_numbers = sorted(numbers)
 # Виведення результату
 print("Слова в алфавітному порядку:", sorted_words)
 print("Числа в порядку зростання:", sorted_numbers)
+
+print = ("hello mom")
